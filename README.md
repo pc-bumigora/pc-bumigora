@@ -1,6 +1,6 @@
 ### Hi there, [PROGRAMMING CUMMUNITY UNIVERSITAS BUMIGORA] 👋
 
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.programingcomunity.ubg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img alt="Gmail" src="https://img.shields.io/badge/PROGRAMMING COMMUNITY UBG-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 ### Languages, Frameworks, and Tools:
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
@@ -19,4 +19,4 @@
 [figma]: https://www.figma.com
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
-[email]: mailto:hello.adityarohman@gmail.com
+[email]: mailto:hello.programingcomunity.ubg@gmail.com
